@@ -38,7 +38,8 @@ Closed Loop System:
 ## Output:
 ### Open Loop System:
 
-<img width="846" height="757" alt="image" src="https://github.com/user-attachments/assets/0d357acc-823b-4b28-8dff-dd7b7035bdda" />
+<img width="843" height="738" alt="image" src="https://github.com/user-attachments/assets/fb1edb12-27c2-493b-b48b-62bbaee0e508" />
+
 
 ### Closed Loop System:
 <img width="844" height="751" alt="image" src="https://github.com/user-attachments/assets/afe4e27a-4570-4e5c-84ef-79e1f952d2fe" />
