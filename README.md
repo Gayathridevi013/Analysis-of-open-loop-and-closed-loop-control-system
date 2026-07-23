@@ -47,11 +47,11 @@ Closed Loop System:
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
-Steady State Error = <br>
-Settling Time = 
+Steady State Error =0.95 <br>
+Settling Time = 2.25
 ### Closed loop System
-Steady State Error = <br>
-Settling Time = 
+Steady State Error =0.04 <br>
+Settling Time = 1.2
 
 
 
