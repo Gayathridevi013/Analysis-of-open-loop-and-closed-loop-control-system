@@ -30,7 +30,14 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 	Analyse the result.
 ## Output:
 ### Open Loop System:
+<img width="1786" height="739" alt="image" src="https://github.com/user-attachments/assets/8ae2b44e-c583-4a6d-971b-731c1158e549" />
+
+<img width="846" height="757" alt="image" src="https://github.com/user-attachments/assets/0d357acc-823b-4b28-8dff-dd7b7035bdda" />
+
 ### Closed Loop System:
+<img width="1774" height="764" alt="image" src="https://github.com/user-attachments/assets/270c0bdf-3b8f-4cfd-9351-99b03959f87d" />
+<img width="844" height="751" alt="image" src="https://github.com/user-attachments/assets/afe4e27a-4570-4e5c-84ef-79e1f952d2fe" />
+
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
