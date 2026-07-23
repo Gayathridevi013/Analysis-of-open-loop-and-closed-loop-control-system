@@ -20,7 +20,7 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 
 ### Closed loop System
 
-## Simulink
+## Simulink:
 
 ## Procedure:
 	Open MATLAB software
@@ -29,8 +29,8 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 	Save and Execute the program.
 	Analyse the result.
 ## Output:
-### Open Loop System
-### Closed Loop System
+### Open Loop System:
+### Closed Loop System:
 ## Result:
 Thus the open loop and closed loop system are analysed and the following conclusions are arrived.
 ### Open loop system
