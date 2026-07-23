@@ -17,10 +17,17 @@ C(S) and G(S) are in series, 300/(S^2+10S+20)
 Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 ## Program: 
 ### Open loop System
+<img width="614" height="577" alt="image" src="https://github.com/user-attachments/assets/cb5b4f36-ac4a-47d2-86d6-51ece053a8ee" />
 
 ### Closed loop System
+<img width="542" height="589" alt="image" src="https://github.com/user-attachments/assets/7e62b42c-772d-4e1e-8feb-4589e720d942" />
+
 
 ## Simulink:
+Open Loop System:
+<img width="1786" height="739" alt="image" src="https://github.com/user-attachments/assets/8ae2b44e-c583-4a6d-971b-731c1158e549" />
+Closed Loop System:
+<img width="1774" height="764" alt="image" src="https://github.com/user-attachments/assets/270c0bdf-3b8f-4cfd-9351-99b03959f87d" />
 
 ## Procedure:
 	Open MATLAB software
@@ -30,12 +37,10 @@ Therefore, Closed loop transfer function, (C(S))/(R(S))=300/(S^2+10S+320)
 	Analyse the result.
 ## Output:
 ### Open Loop System:
-<img width="1786" height="739" alt="image" src="https://github.com/user-attachments/assets/8ae2b44e-c583-4a6d-971b-731c1158e549" />
 
 <img width="846" height="757" alt="image" src="https://github.com/user-attachments/assets/0d357acc-823b-4b28-8dff-dd7b7035bdda" />
 
 ### Closed Loop System:
-<img width="1774" height="764" alt="image" src="https://github.com/user-attachments/assets/270c0bdf-3b8f-4cfd-9351-99b03959f87d" />
 <img width="844" height="751" alt="image" src="https://github.com/user-attachments/assets/afe4e27a-4570-4e5c-84ef-79e1f952d2fe" />
 
 ## Result:
